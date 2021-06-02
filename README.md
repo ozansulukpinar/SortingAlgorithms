@@ -15,7 +15,9 @@
 
 Project is created with:
 
-- C# version: 7.0
+- C#
+- Javascript
+- C
 
 ## Features
 
