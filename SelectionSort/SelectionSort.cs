@@ -1,6 +1,5 @@
 public static void SelectionSort(int[] input)
 {
-    // TODO: Debugging
     int length = input.Length;
     int index = 0;
     bool isItChanged = false;
