@@ -1,5 +1,7 @@
 # SortingAlgorithms
 
+Some sorting algorithms solved with multiple programming languages
+
 ## Table of contents
 
 - [General info](#general-info)
@@ -10,6 +12,8 @@
 - [Contact](#contact)
 
 ## General info
+
+To arrange a sequence of numbers in ascending order, sorting algorithms help. In this project, some of them implemented in different programming languages.
 
 ## Technologies
 
@@ -27,7 +31,7 @@ List of features ready
 
 ## Status
 
-Project is continued.
+Project is completed.
 
 ## Inspiration
 
